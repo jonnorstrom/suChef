@@ -1,6 +1,6 @@
 # suChef
 
-Live site can be reached at [suchef.herokuapp.com/](https://suchef.herokuapp.com/)
+Live site can be reached at [suchef.herokuapp.com](https://suchef.herokuapp.com/)
 
 This was the final project for my group at Dev Bootcamp. Over 8 days we learned React.js and implimented this webapp.
 
